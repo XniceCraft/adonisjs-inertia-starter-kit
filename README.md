@@ -32,9 +32,13 @@ The components needs badge, sidebar, skeleton, separator, collapsible, dropdown-
 ```
 
 - Install the component
+with npm
 ```sh
-npx shadcn@latest add badge sidebar skeleton separator collapsible dropdown-menu
+npx shadcn@latest add badge sidebar skeleton separator collapsible dropdown-menu table
+npm install @tanstack/react-table
 ```
+or with pnpm
 ```sh
-pnpm dlx shadcn@latest add badge sidebar skeleton separator collapsible dropdown-menu
+pnpm dlx shadcn@latest add badge sidebar skeleton separator collapsible dropdown-menu table
+pnpm add @tanstack/react-table
 ```
