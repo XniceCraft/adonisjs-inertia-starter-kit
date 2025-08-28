@@ -16,6 +16,7 @@ This repo contains an AdonisJS application tailored for building an Inertia powe
 - Lucid ORM (MySQL)
 - Auth module (Session)
 - Inertia.js SSR + React
+- Websocket (came with middleware, see: [start/socket.ts](https://github.com/XniceCraft/adonisjs-inertia-starter-kit/blob/main/start/socket.ts))
 
 ## Usage
 
